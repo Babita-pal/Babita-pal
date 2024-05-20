@@ -1,6 +1,8 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Babita Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="300" height="200"  src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babita-pal&label=Profile%20views&color=0e75b6&style=flat" alt="babita-pal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babita-pal" alt="babita-pal" /></a> </p>
